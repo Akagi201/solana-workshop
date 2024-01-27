@@ -10,3 +10,7 @@ cargo update -p ahash@0.8.7 --precise 0.8.6
 anchor build
 anchor deploy --provider.wallet ~/.config/solana/id.json --provider.cluster devnet
 ```
+
+## Nice Books
+
+* <https://www.solanazh.com/>
