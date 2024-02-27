@@ -13,4 +13,5 @@ anchor deploy --provider.wallet ~/.config/solana/id.json --provider.cluster devn
 
 ## Nice Books
 
+* <https://solanacookbook.com/#contributing>
 * <https://www.solanazh.com/>
