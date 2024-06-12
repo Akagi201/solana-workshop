@@ -15,3 +15,7 @@ anchor deploy --provider.wallet ~/.config/solana/id.json --provider.cluster devn
 
 * <https://solanacookbook.com/#contributing>
 * <https://www.solanazh.com/>
+
+## Community
+
+* <https://soldev.cn/>
