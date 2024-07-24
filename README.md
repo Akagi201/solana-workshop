@@ -19,3 +19,7 @@ anchor deploy --provider.wallet ~/.config/solana/id.json --provider.cluster devn
 ## Community
 
 * <https://soldev.cn/>
+
+## Testing
+
+* <https://github.com/Ackee-Blockchain/trident>
