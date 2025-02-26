@@ -10,6 +10,12 @@ Codes and notes while learning solana
 * <https://solana.com/developers/cookbook>
 * <https://github.com/helius-labs/solana-awesome>
 
+## Node.js Libraries
+
+* <https://github.com/kevinheavey/solana-bankrun> - testing
+* <https://github.com/kevinheavey/anchor-bankrun> - testing
+* <https://github.com/metaDAOproject/spl-token-bankrun> - testing
+
 ## Install Solana CLI
 
 ```sh
@@ -47,8 +53,8 @@ solana config set --url https://api.testnet.solana.com
 ```sh
 # install avm
 cargo install --git https://github.com/coral-xyz/anchor avm --force
-avm install latest
-avm use latest
+avm install master # latest means latest stable release
+avm use master
 ```
 
 ## Solana playground
@@ -84,3 +90,10 @@ anchor deploy --provider.wallet ~/.config/solana/id.json --provider.cluster devn
 ## Tutorials
 
 * <https://www.bilibili.com/video/BV1JkN8esEW8/>
+* <https://www.youtube.com/watch?v=TQn9_grKFlQ>
+* <https://turbin3.com/>
+* <https://github.com/3uild-3thos/advanced-rust>
+
+## Solana examples
+
+* <https://github.com/solana-turbin3>
