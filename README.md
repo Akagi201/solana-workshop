@@ -10,6 +10,10 @@ Codes and notes while learning solana
 * <https://solana.com/developers/cookbook>
 * <https://github.com/helius-labs/solana-awesome>
 
+## Solana Ecosystem
+
+* <https://solanacompass.com/>
+
 ## Node.js Libraries
 
 * <https://github.com/kevinheavey/solana-bankrun> - testing
@@ -70,6 +74,12 @@ anchor build
 anchor deploy --provider.wallet ~/.config/solana/id.json --provider.cluster devnet
 ```
 
+## Anchor commands
+
+```sh
+anchor keys sync # regenerate declare_id with target/deploy keypair
+```
+
 ## RPC
 
 * <https://github.com/rpcpool/yellowstone-grpc> - gRPC for Solana
@@ -93,6 +103,13 @@ anchor deploy --provider.wallet ~/.config/solana/id.json --provider.cluster devn
 * <https://www.youtube.com/watch?v=TQn9_grKFlQ>
 * <https://turbin3.com/>
 * <https://github.com/3uild-3thos/advanced-rust>
+
+## Solana static analyzer
+
+* <https://github.com/VulnPlanet/l3x>
+* <https://github.com/auditware/radar>
+* <https://github.com/sec3-product/x-ray>
+* <https://github.com/honey-guard/solana-fender>
 
 ## Solana examples
 
