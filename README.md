@@ -10,6 +10,10 @@ Codes and notes while learning solana
 * <https://solana.com/developers/cookbook>
 * <https://github.com/helius-labs/solana-awesome>
 
+## Videos
+
+* <https://learnblockchain.cn/video/play/1178> - video
+
 ## Solana Ecosystem
 
 * <https://solanacompass.com/>
@@ -114,3 +118,11 @@ anchor keys sync # regenerate declare_id with target/deploy keypair
 ## Solana examples
 
 * <https://github.com/solana-turbin3>
+
+## Solana projects
+
+* <https://github.com/anza-xyz/pinocchio> - solady for solana
+
+## Solana explorer
+
+* <https://wapal.io/collection/amnis-draconian> - NFT explorer
