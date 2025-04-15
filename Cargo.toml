@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "solana-spl",
+    "solana-wallet",
+]
+resolver = "2"

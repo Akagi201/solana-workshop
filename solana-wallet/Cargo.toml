@@ -1,0 +1,10 @@
+[package]
+name = "solana-wallet"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+const-hex = "1.14.0"
+getrandom = "0.3.2"
+solana-sdk = "2.2.2"
+url = { version = "2.5.4", features = ["serde"] }

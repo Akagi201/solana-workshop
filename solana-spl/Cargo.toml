@@ -1,0 +1,23 @@
+[package]
+name = "solana-spl"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+envy = "0.4.2"
+eyre = "0.6.12"
+serde = { version = "1.0.219", features = ["derive"] }
+solana-client = "2.2.7"
+solana-sdk = "2.2.2"
+spl-associated-token-account = "6.0.0"
+spl-token = "8.0.0"
+tokio = { version = "1.44.2", features = ["full"] }
+url = { version = "2.5.4", features = ["serde"] }
+
+[[bin]]
+name = "create_spl"
+path = "src/create_spl.rs"
+
+[[bin]]
+name = "mint_spl"
+path = "src/mint_spl.rs"

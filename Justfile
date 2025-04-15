@@ -1,20 +1,10 @@
-install:
-  bun install
 format:
   taplo fmt
   cargo +nightly fmt --all
-build:
-  anchor build
 lint:
   taplo fmt --check
   cargo +nightly fmt --all -- --check
   cargo +nightly clippy --all -- -D warnings -A clippy::derive_partial_eq_without_eq -D clippy::unwrap_used -D clippy::uninlined_format_args
   cargo machete
 test:
-  anchor test
-test-local:
-  anchor test --skip-local-validator
-deploy:
-  anchor deploy
-close:
-  solana program close mNy2nGCzCmumHtEXbCENMJuWHLmPxc5z7kXKicejkrR --bypass-warning
+  cargo test

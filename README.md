@@ -126,3 +126,7 @@ anchor keys sync # regenerate declare_id with target/deploy keypair
 ## Solana explorer
 
 * <https://wapal.io/collection/amnis-draconian> - NFT explorer
+
+## Anchor cursor
+
+* <https://github.com/mikemaccana/solana-anchor-cursor-ai-rules>
