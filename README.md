@@ -128,3 +128,7 @@ anchor keys sync # regenerate declare_id with target/deploy keypair
 ## Anchor cursor
 
 * <https://github.com/mikemaccana/solana-anchor-cursor-ai-rules>
+
+## Static analyzer
+
+* <https://github.com/Inversive-Labs/eloizer>
