@@ -24,6 +24,10 @@ Codes and notes while learning solana
 * <https://github.com/kevinheavey/anchor-bankrun> - testing
 * <https://github.com/metaDAOproject/spl-token-bankrun> - testing
 
+## Contract framework
+
+* <https://github.com/anza-xyz/pinocchio>
+
 ## Install Solana CLI
 
 ```sh
@@ -55,6 +59,10 @@ solana config set --url https://api.testnet.solana.com
 ## Solana RPCs
 
 * <https://solana.com/rpc>
+
+## Anchor Solana Program manager
+
+* <https://solpm.dev/>
 
 ## Install Anchor CLI
 
